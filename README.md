@@ -18,3 +18,6 @@ https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-de
 
 - metrics: Choosing Classification metrics based on True/False positives & negative
 https://keras.io/api/metrics/classification_metrics/
+
+- Brief information: How Deep Learning Works with Different Neuron Layers
+https://data-flair.training/blogs/how-deep-learning-works/
