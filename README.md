@@ -4,6 +4,7 @@
 - Keras Tutorial: Deep Learning in Python
 https://www.datacamp.com/tutorial/deep-learning-python
 
+
 - An overview of gradient descent optimization algorithms
 https://ruder.io/optimizing-gradient-descent/index.html
 
